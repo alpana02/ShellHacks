@@ -30,4 +30,6 @@ It is a platform that enables users to have virtual gaming experience, from the 
 - For detecting the user moves we extracted the region of interest within the rectangle and gave predictions to the user interface.
 
 
+![vnbb](https://user-images.githubusercontent.com/64356997/134787119-70056b73-b10a-40f2-b3e9-9dc5f6a60201.jpeg)
+
 ![WhatsApp Image 2021-09-26 at 00 50 29](https://user-images.githubusercontent.com/64356997/134787154-715dd20a-fbb3-40df-9a88-abba9f01390f.jpeg)
