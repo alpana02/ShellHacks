@@ -28,3 +28,6 @@ It is a platform that enables users to have virtual gaming experience, from the 
 - The ml bubby classifies our moves according to the label and makes its own moves.
 - It is a self-learning model. After each round, it learns the game in order to win. 
 - For detecting the user moves we extracted the region of interest within the rectangle and gave predictions to the user interface.
+
+
+![WhatsApp Image 2021-09-26 at 00 50 29](https://user-images.githubusercontent.com/64356997/134787154-715dd20a-fbb3-40df-9a88-abba9f01390f.jpeg)
